@@ -21,7 +21,8 @@
             android:layout_width="wrap_content"
             android:id="@+id/btn_getLocation"
             android:layout_weight="1"
-            android:layout_height="50dp" />
+            android:layout_height="50dp"
+            android:onClick="on_location" />
 
         <Button
             android:text="Sensors"

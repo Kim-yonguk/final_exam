@@ -70,8 +70,18 @@ class Customer extends Person{
         this.name = name;
     }
 
+    public void work()
+    {
+
+    }
+
     // need something here
 }
+
+
+
+
+
 
 
 class Manager extends Person{

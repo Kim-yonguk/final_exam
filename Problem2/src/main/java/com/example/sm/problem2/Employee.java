@@ -11,6 +11,8 @@ public class Employee extends Person implements Payment{
         this.salary = salary;
     }
 
+    public
+
     public int getSalary() {
         return salary;
     }
